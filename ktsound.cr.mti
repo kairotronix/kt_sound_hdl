@@ -1,0 +1,100 @@
+D:/DEV/kt_sound/src/PKG/regPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/regPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package regPKG
+
+Top level modules:
+	--none--
+
+} {} {}} D:/DEV/kt_sound/src/PKG/sysPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/sysPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package sysPKG
+
+Top level modules:
+	--none--
+
+} {} {}} D:/DEV/kt_sound/src/midi_out.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/midi_out.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/register_file.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/register_file.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/output_mixer.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/output_mixer.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/integrator.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/integrator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module integrator
+-- Importing package sysPKG
+-- Importing package regPKG
+-- Importing package synthPKG
+
+Top level modules:
+	integrator
+
+} {} {}} D:/DEV/kt_sound/src/PKG/synthPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/synthPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package synthPKG
+-- Importing package sysPKG
+
+Top level modules:
+	--none--
+
+} {} {}} D:/DEV/kt_sound/src/PKG/i2sPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/i2sPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/midi_in.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/midi_in.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/i2s_master.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/i2s_master.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/square_gen.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/square_gen.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module square_gen
+-- Importing package sysPKG
+-- Importing package regPKG
+-- Importing package synthPKG
+
+Top level modules:
+	square_gen
+
+} {} {}} D:/DEV/kt_sound/src/spi_slave_dataxceive.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/spi_slave_dataxceive.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_slave_dataxceive
+
+Top level modules:
+	spi_slave_dataxceive
+
+} {} {}} D:/DEV/kt_sound/src/adsr_gen.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/adsr_gen.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/PKG/simPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/simPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package simPKG
+
+Top level modules:
+	--none--
+
+} {} {}} D:/DEV/kt_sound/src/sound_chip.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/sound_chip.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sound_chip
+-- Importing package regPKG
+-- Importing package synthPKG
+-- Importing package sysPKG
+
+Top level modules:
+	sound_chip
+
+} {} {}} D:/DEV/kt_sound/src/saw_gen.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/saw_gen.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/mux4-1.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/mux4-1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/iface_logic.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/iface_logic.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/DEV/kt_sound/src/PKG/midiPKG.sv {1 {vlog -work work -sv -stats=none D:/DEV/kt_sound/src/PKG/midiPKG.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}}
